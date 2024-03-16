@@ -1,5 +1,5 @@
-# Finetune-Gemma2b-for-QA-RAG-LoRA-CromaDB
-Finetune Gemma2b for QA : RAG LoRA CromaDB
+# Finetune-Gemma2b-for-QA-RAG-LoRA-ChromaDB
+Finetune Gemma2b for QA : RAG LoRA ChromaDB
 
 ![image](https://github.com/ambideXtrous9/Finetune-Gemma2b-for-QA-RAG-LoRA-CromaDB/assets/31372586/112fbc12-d34b-403e-b9cc-220b1876845f)
 
